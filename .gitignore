@@ -1,0 +1,21 @@
+# Build directories
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Test results
+TestResults/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+
+# OS files
+.DS_Store
+Thumbs.db

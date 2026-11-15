@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="ConsoleApplications.Tests/ConsoleApplications.Tests.csproj" />
+  <Project Path="GradeTracker/GradeTracker.csproj" />
+  <Project Path="GuessingGame/GuessingGame.csproj" />
+</Solution>
